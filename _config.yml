@@ -1,0 +1,14 @@
+#Github will override following settings
+#safe: true
+#lsi: false
+#source: your top-level directory
+
+#设置输出格式为 /:categories/:title.html
+permalink: none
+
+
+# Site settings  可以使用site.title的方式获取到ez365
+title: ez365
+email: kenn@ez365.io
+github_username:  ez365
+github_repo_root: github.com/ez365/ez365.github.io
