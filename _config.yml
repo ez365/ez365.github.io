@@ -6,6 +6,8 @@
 #设置输出格式为 /:categories/:title.html
 permalink: none
 
+#设置markdown解析器
+markdown: rdiscount
 
 # Site settings  可以使用site.title的方式获取到ez365
 title: ez365
